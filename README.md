@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou Yuri Rodrigues</h1>
+<h1 align="center">Yuri Rodrigues</h1>
 <h3 align="center">Sou um Desenvolver Python</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/yuriarodrig/](https://github.com/yuriarodrig/)
